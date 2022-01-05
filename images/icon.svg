@@ -1,0 +1,9 @@
+<svg id="_2x" data-name="2x" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Rectangle" fill="#32c795" stroke-miterlimit="10">
+    <path d="M 16 23.5 L 8 23.5 C 3.864490032196045 23.5 0.5 20.1355094909668 0.5 16 L 0.5 8 C 0.5 3.864490032196045 3.864490032196045 0.5 8 0.5 L 16 0.5 C 20.1355094909668 0.5 23.5 3.864490032196045 23.5 8 L 23.5 16 C 23.5 20.1355094909668 20.1355094909668 23.5 16 23.5 Z" stroke="none"/>
+    <path d="M 8 1 C 4.140190124511719 1 1 4.140190124511719 1 8 L 1 16 C 1 19.85980987548828 4.140190124511719 23 8 23 L 16 23 C 19.85980987548828 23 23 19.85980987548828 23 16 L 23 8 C 23 4.140190124511719 19.85980987548828 1 16 1 L 8 1 M 8 0 L 16 0 C 20.41827964782715 0 24 3.581720352172852 24 8 L 24 16 C 24 20.41827964782715 20.41827964782715 24 16 24 L 8 24 C 3.581720352172852 24 0 20.41827964782715 0 16 L 0 8 C 0 3.581720352172852 3.581720352172852 0 8 0 Z" stroke="none" fill="#ffb800"/>
+  </g>
+  <text id="XD" transform="translate(9 7)" fill="#fe61f5" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">XD</tspan></text>
+  <text id="FairyGUI" transform="translate(3 18)" fill="#ff610e" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">FairyGUI</tspan></text>
+  <path id="多边形_1" data-name="多边形 1" d="M2,0,4,4H0Z" transform="translate(14 14) rotate(180)" fill="#f8b600"/>
+</svg>
