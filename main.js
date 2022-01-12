@@ -13,7 +13,7 @@ function rectangleHandlerFunction(selection) {
     newElement.width = 100;
     newElement.height = 50;
     newElement.fill = new Color("Purple");
-
+    
     selection.insertionParent.addChild(newElement);
     newElement.moveInParentCoordinates(100, 100);
 
