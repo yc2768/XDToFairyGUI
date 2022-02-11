@@ -5,22 +5,15 @@
  */
 
 
-const {Rectangle, Color} = require("scenegraph"); 
+const { CreateRectangleHandlerFunction } = require("./Test/Note/src/test.js")
 
-function rectangleHandlerFunction(selection) { 
-
-    const newElement = new Rectangle(); 
-    newElement.width = 100;
-    newElement.height = 50;
-    newElement.fill = new Color("Purple");
-    
-    selection.insertionParent.addChild(newElement);
-    newElement.moveInParentCoordinates(100, 100);
+function ExportFairyGUIHandlerFunction(selection) {
+    CreateRectangleHandlerFunction(selection);
 
 }
 
 module.exports = {
     commands: {
-        createRectangle: rectangleHandlerFunction
+        ExportFairyGUI: ExportFairyGUIHandlerFunction
     }
 };

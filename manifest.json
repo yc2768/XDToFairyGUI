@@ -18,7 +18,8 @@
  
   "uiEntryPoints" : [ {
     "type" : "menu",
-    "commandId" : "createRectangle"
+    "label": "XDToFairyGUI",
+    "commandId": "ExportFairyGUI"
   } ],
   "version" : "0.0.1"
 }
