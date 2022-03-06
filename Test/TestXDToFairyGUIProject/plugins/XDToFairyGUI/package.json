@@ -1,0 +1,11 @@
+{
+  "name": "XDToFairyGUI",
+  "displayName": "XDToFairyGUI",
+  "description": "XD File Convert  FairyGUI View",
+  "version": "1.0",
+  "author": {
+    "name": "Pyc"
+  },
+  "icon": "icon.png",
+  "main": "./dist/main.js"
+}
